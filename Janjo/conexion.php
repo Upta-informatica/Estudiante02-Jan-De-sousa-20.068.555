@@ -1,8 +1,7 @@
 <?php
 // Este archivo se encarga de conectar a la base de datos y un objeto PDO
-
-$contraseña = "2611";
-$usuario = "postgres";
+$contraseña = "1234";
+$usuario = "mascota";
 $nombreBaseDeDatos = "mascotas";
 $rutaServidor = "localhost";
 $puerto = "5432";
